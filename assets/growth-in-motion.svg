@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+<title id="title">GROWTH IN MOTION</title><desc id="desc">A moving car, rising chart and heartbeat connect cars, economics, investing and healthcare with a journey of learning.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081426"/><stop offset="1" stop-color="#142d3c"/></linearGradient><linearGradient id="accent"><stop stop-color="#60e6c5"/><stop offset="1" stop-color="#65aaff"/></linearGradient></defs>
+<rect width="1000" height="390" rx="24" fill="url(#bg)"/>
+<g stroke="#284458" opacity=".4"><path d="M0 290H1000M0 330H1000M0 370H1000M100 240V390M250 240V390M400 240V390M550 240V390M700 240V390M850 240V390"/></g>
+<text x="54" y="60" fill="#60e6c5" font-family="monospace" font-size="14" letter-spacing="4">HANEUL159117 / LEARNING JOURNAL</text>
+<text x="50" y="124" fill="#f0f7ff" font-family="Arial,sans-serif" font-weight="700" font-size="52">GROWTH IN MOTION</text>
+<text x="54" y="165" fill="#b7ccdf" font-family="Arial,sans-serif" font-size="20">Small steps. Real curiosity. Better code.</text>
+<g font-family="monospace" font-size="13" fill="#d7e8f5">
+<rect x="54" y="194" width="98" height="30" rx="15" fill="#1d4151"/><text x="103" y="214" text-anchor="middle">CARS</text>
+<rect x="164" y="194" width="145" height="30" rx="15" fill="#1d4151"/><text x="236" y="214" text-anchor="middle">ECONOMICS</text>
+<rect x="321" y="194" width="135" height="30" rx="15" fill="#1d4151"/><text x="388" y="214" text-anchor="middle">INVESTING</text>
+<rect x="468" y="194" width="145" height="30" rx="15" fill="#1d4151"/><text x="540" y="214" text-anchor="middle">HEALTHCARE</text></g>
+<path d="M54 333H946" stroke="#426377" stroke-width="2"/>
+<path d="M54 343H946" stroke="#60e6c5" stroke-width="2" stroke-dasharray="18 20"><animate attributeName="stroke-dashoffset" from="0" to="-76" dur="2s" repeatCount="indefinite"/></path>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;18 0;0 0" dur="5s" repeatCount="indefinite"/>
+<path d="M96 305L110 282H160L181 305L201 310V326H80V313Z" fill="#60e6c5"/><path d="M118 288H137V304H107ZM143 288H157L173 304H143Z" fill="#142d3c"/>
+<circle cx="106" cy="325" r="12" fill="#081426" stroke="#9adbea" stroke-width="4"/><circle cx="177" cy="325" r="12" fill="#081426" stroke="#9adbea" stroke-width="4"/></g>
+<path d="M290 314L333 298L369 306L412 275L452 282L499 245" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+<circle cx="499" cy="245" r="6" fill="#60e6c5"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.45;1" dur="2s" repeatCount="indefinite"/></circle>
+<path d="M592 289H650L665 276L680 310L698 258L714 289H780" fill="none" stroke="#65aaff" stroke-width="3" stroke-dasharray="310" stroke-dashoffset="310"><animate attributeName="stroke-dashoffset" values="310;0;0" keyTimes="0;.7;1" dur="4s" repeatCount="indefinite"/></path>
+<g fill="#c7dceb" font-family="monospace" font-size="13"><text x="816" y="274">LEARN</text><text x="816" y="295">BUILD</text><text x="816" y="316">REFLECT ↗</text></g>
+<text x="54" y="373" fill="#91adc3" font-family="monospace" font-size="12">PYTHON · C · SQLD CERTIFIED</text>
+<text x="946" y="373" text-anchor="end" fill="#91adc3" font-family="monospace" font-size="11">KEEP MOVING. KEEP GROWING.</text>
+</svg>
