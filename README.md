@@ -2,6 +2,8 @@
 
 # 🌱 Growing, one commit at a time
 
+![관심 분야와 성장 메시지가 순서대로 타이핑되는 애니메이션](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&height=60&lines=Stay+curious.+Keep+growing.;Cars+%7C+Economics+%7C+Investing+%7C+Healthcare;Learn.+Build.+Reflect.+Repeat.)
+
 ### 배우고, 만들고, 기록하며 성장합니다.
 
 작은 배움을 코드로 옮기고, 그 과정을 차곡차곡 쌓아갑니다.
@@ -18,6 +20,18 @@
 
 Python과 C로 코드를 작성하고, **SQLD 자격증**을 보유하고 있습니다.  
 배운 내용을 직접 적용하고, 해결 과정과 시행착오를 기록하는 개발자로 성장하고 싶습니다.
+
+**차 · 경제 · 투자 · 헬스케어**에 관심이 있습니다.  
+관심 있는 분야를 코드와 데이터로 탐구하며, 배움의 폭을 넓혀가고 싶습니다.
+
+## 🧭 What sparks my curiosity
+
+| 관심 분야 | 탐구하고 싶은 질문 |
+| :--- | :--- |
+| 🚗 **Cars** | 자동차의 기술과 가격은 어떻게 달라질까? |
+| 🌐 **Economics** | 경제의 변화는 일상과 산업에 어떤 영향을 줄까? |
+| 📈 **Investing** | 데이터로 기업과 시장을 어떻게 이해할 수 있을까? |
+| 🩺 **Healthcare** | 기술과 데이터는 더 건강한 삶에 어떻게 기여할까? |
 
 ## 🧰 My foundation
 
